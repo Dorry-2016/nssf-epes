@@ -1,0 +1,38 @@
+PROJECT: NSSF PERFORMANCE APPRAISAL SYSTEM
+ABOUT THE PROJECT
+NSSF PERFORMANCE APPRAISAL SYSTEM  is a simple project that can help a OF KICO CREDIT AND SAVINGS SACCO evaluate the performance of their employees
+based on their task accomplishments. 
+This system has 3 types of users which are the Admin, Employee and Evaluator 
+The Admin Side is the system user that in-charge to manage the important data of the system 
+such as the department, designation, employee list, and list of evaluators. The admin has access to all of the data stored and the database.
+ The Employee side is the system users that can only access the tasks where they are assigned and submit their progress.
+ The submitted progress of the employee in each task will be the reference of the evaluators on how they will rate the employees. 
+The Evaluator side is the system user side that evaluates the performance of the employees' every task. 
+They will evaluate the employees by their efficiency, timeliness, quality, and employees' accuracy to accomplish certain task.
+HOW THE SYSTEM WORKS
+NSSF PERFORMANCE APPRAISAL SYSTEM users can be only   created by admin users i.e., Hr. or manager. 
+The first thing that the admin should do in the system is to populate the department, designation, and the evaluators' list.
+ After that, they will store the details of the employees and along with the employees' system credentials. 
+Then, the admin will create a task and assigned this to an employee. When the employee has already assigned a task, the employee will log in to the system
+ each time they have progressed for a certain task and submit their progress details to store in the system database.
+ When the employee finally completed the task, they must check the "Task Completed “check box so that the evaluator can start to evaluate their accomplishment
+
+ and rate their performance. After the employee marks the task assigned to them as Completed Task,
+the evaluator can now begin to evaluate the performance of the employee.
+FEATURES
+Login Page
+	Home Page
+	Department List
+	Designation List
+	Employees List
+	Evaluators List
+	Users List
+	Task List
+	Evaluation List
+
+
+NSSF PERFORMANCE APPRAISAL SYSTEM was developed using HTML, PHP/MySQL, CSS, JavaScript (jQuery/Ajax), and Bootstrap for the design. The source code is fully functional and easy to modify or enhance. Follow the instruction below to have an actual experience using this simple project.
+How to Run
+Copy and paste the folder containing the source code to the location where your local web server accessing your local projects. Example for<strong> XAMPP ('C:\xampp\htdocs'
+Open a web browser and browse </strong>the project. E.g., http://localhost/epes] 
+Admin Access               Email: admin@admin.com          Password: admin123

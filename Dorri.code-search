@@ -1,0 +1,39 @@
+# Query: Dorri
+# ContextLines: 1
+
+7 results - 7 files
+
+employee.php:
+  460    <footer class="main-footer"><background-color:orange>
+  461:     <style=strong>Copyright &copy; 2022 <a href="">Designed&developed by Dorris</a>.</strong>
+  462      All rights reserved.
+
+index.php:
+  125    <footer class="main-footer"><background-color:orange>
+  126:     <style=strong>Copyright &copy; 2022 <a href="">Designed&developed by Dorris</a>.</strong>
+  127      All rights reserved.
+
+total_departments.php:
+  453    <footer class="main-footer"><background-color:orange>
+  454:     <style=strong>Copyright &copy; 2022 <a href="">Designed&developed by Dorry</a>.</strong>
+  455      All rights reserved.
+
+total_designations.php:
+  509    <footer class="main-footer"><background-color:orange>
+  510:     <style=strong>Copyright &copy; 2022 <a href="">Designed&developed by Dorris</a>.</strong>
+  511      All rights reserved.
+
+total_evaluators.php:
+  476    <footer class="main-footer"><background-color:orange>
+  477:     <style=strong>Copyright &copy; 2022 <a href="">Designed&developed by Dorris</a>.</strong>
+  478      All rights reserved.
+
+total_tasks.php:
+  651    <footer class="main-footer"><background-color:orange>
+  652:     <style=strong>Copyright &copy; 2022 <a href="">Designed&developed by Dorris</a>.</strong>
+  653      All rights reserved.
+
+total_users.php:
+  561    <footer class="main-footer"><background-color:orange>
+  562:     <style=strong>Copyright &copy; 2022 <a href="">Designed&developed by Dorris</a>.</strong>
+  563      All rights reserved.
